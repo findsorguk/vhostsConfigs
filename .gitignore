@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+.idea/*
+cache/zend_*
+cache/html*
+app/logs/application.log
+
